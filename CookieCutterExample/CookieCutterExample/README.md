@@ -31,3 +31,6 @@ pip freeze | grep -v CookieCutter_Example_Datascience > requirements.txt
 > For a private repository accessible only through an SSH authentication, substitute `https://github.com/` with `git@github.com:`.
 
 Then, create or select a GitHub branch and have fun... 
+
+Tutorial found at https://github.com/Satalia/production-data-science/tree/master/template
+Explanations at https://github.com/Satalia/production-data-science
